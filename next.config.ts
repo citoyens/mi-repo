@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
-  basePath: "/<nombre-del-repositorio>",
+  basePath: "/mi-repo",
   trailingSlash: true,
 };
 
